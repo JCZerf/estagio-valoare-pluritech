@@ -1,15 +1,37 @@
-### 🗓 Semana 1 — 06 a 07 de junho de 2025
+# 🗓 Semana 1 — 06 a 07 de junho de 2025
 
-**Tarefas realizadas:**
-- **Apresentação do projeto Brapp** e introdução ao time de desenvolvimento.
-- Alinhamento inicial sobre a proposta do sistema, principais funcionalidades e tecnologias utilizadas.
-- Conhecimento do fluxo de trabalho da equipe, incluindo uso do GitHub, Firebase e estrutura do app Flutter.
-- Primeira análise do código base com foco em entender a organização do projeto.
+## 📊 **SITUAÇÃO**
+Início do estágio na Pluritech com integração ao projeto **Brapp** (aplicativo mobile Flutter/Firebase). Necessidade de compreender arquitetura existente, fluxo de trabalho da equipe e tecnologias utilizadas antes de começar desenvolvimento.
 
-**Aprendizados:**
-- Visão geral da arquitetura do aplicativo Brapp.
-- Compreensão da rotina de versionamento, uso de branches e Pull Requests.
-- Entendimento inicial do processo de deploy e integração com Firebase.
+## 🎯 **TAREFA**
+- Integrar-se ao time de desenvolvimento
+- Compreender arquitetura e organização do projeto Brapp
+- Assimilar fluxo de trabalho (Git/GitHub, Firebase, metodologias)
+- Analisar código base para entender padrões e estruturas
 
-**Observações:**
-- Semana de entrada e ambientação, com foco em absorver o contexto técnico e organizacional do projeto.
+## 🚀 **AÇÃO**
+- **Apresentação técnica** do projeto com overview de funcionalidades
+- **Análise do código base** focando em organização de pastas e arquitetura Flutter
+- **Estudo do fluxo Git** incluindo branching strategy e processo de Pull Requests
+- **Exploração do Firebase** para entender integração com Firestore, Auth e Storage
+- **Alinhamento com mentor** sobre expectativas e cronograma de atividades
+
+## ✅ **RESULTADO**
+- ✅ **Onboarding completo** em 2 dias (prazo reduzido)
+- ✅ **Compreensão da arquitetura** Flutter/Firebase do projeto
+- ✅ **Familiarização** com fluxo Git/GitHub da equipe  
+- ✅ **Preparação técnica** para começar desenvolvimento na semana seguinte
+- 📈 **Base sólida** para evolução técnica nas próximas semanas
+
+---
+
+### 🧰 **Tecnologias Envolvidas:**
+- **Flutter** → Análise de estrutura e widgets
+- **Firebase** → Compreensão de Firestore, Auth, Storage
+- **Git/GitHub** → Branching, PRs, versionamento
+- **Dart** → Sintaxe e padrões de código
+
+### 💡 **Aprendizados-Chave:**
+- Importância do onboarding estruturado em projetos complexos
+- Análise de arquitetura antes de implementar funcionalidades
+- Fluxo de desenvolvimento colaborativo com Git
